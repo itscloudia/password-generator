@@ -1,0 +1,22 @@
+# Object files
+*.o
+
+# Exe files
+*.out
+*.exe
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Dependencies files
+.depend
+
+# IDEs
+.vscode/
+*.code-workspace
+*.cproject
+*.project
+*.launch
+*.settings/
